@@ -8,7 +8,7 @@
 > PocketDevs CEO & Co-founder **[Bryl Lim](https://github.com/bryllim)**
 
 ## 👨‍💻 Authors
-> - **[Jason Lerit](https://github.com/jasonlerit)**
+> - **[wt404](https://github.com/wt404)**
 
 ---
 
